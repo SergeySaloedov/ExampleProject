@@ -1,6 +1,11 @@
 [
-{
-	"name" : "Sergey",
-	"age" : 40
-}
+	{
+		"name" : "Sergey",
+		"age" : 40
+	},
+	{
+		"name" : "Peter",
+		"age" : 25
+	}
+
 ]
